@@ -1,0 +1,1 @@
+This repository contains my hands-on practice for data analysis and exploration of data science using real world datasets.
